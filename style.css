@@ -1,0 +1,50 @@
+body {
+
+    background-image: url(fotojap.png) ;
+    background-position-x: 50%;
+    background-position-y: 100px ;
+background-repeat: no-repeat;
+}
+
+h1 {
+    text-decoration: underline ;
+    text-decoration-color: orange;
+
+}
+
+
+.subtitulo {
+
+    font-style: italic;
+    
+    text-decoration: underline;
+    text-decoration-color: orange;
+} 
+
+
+ul#tabla1 li::marker{
+
+        color: orange;
+    font-family: sans-serif;
+}
+
+ul#tabla2 li::marker{
+
+    color: orange;
+    font-family: sans-serif;
+}
+
+
+ul#tabla3 li::marker{
+
+    color: orange;
+
+    
+    font-family: sans-serif;
+}
+
+a {
+
+color: orange;
+
+}
